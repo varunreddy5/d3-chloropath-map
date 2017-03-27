@@ -1,0 +1,14 @@
+.land{
+  fill:#d3cfcf;
+  stroke:#FFF;
+  stroke-linejoin:round;
+  stroke-linecap:round;
+}
+.states{
+  fill:none;
+  stroke:#FFF;
+}
+.county{
+  stroke:#999;
+  stroke-width:.5;
+}
